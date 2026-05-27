@@ -12,7 +12,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 | # | Code | Document Name | Function | Status | Priority |
 |---:|---|---|---|---|---|
 | 1 | POL-WHS-001 | Work Health and Safety Policy | Corporate WHS commitment and legal position | To draft | P1 |
-| 2 | POL-ENV-001 | Environmental Policy | Corporate environmental commitment | To draft | P1 |
+| 2 | POL-ENV-001 | Environmental Policy | Corporate environmental commitment | Draft complete — pending Director review | P1 |
 | 3 | POL-QUA-001 | Quality Policy | Corporate quality and defensible reporting commitment | To draft | P1 |
 | 4 | POL-SHEQ-001 | Integrated SHEQ Policy Statement | Tender/prequalification summary statement | To draft | P1 |
 
@@ -60,6 +60,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 ## Status Definitions
 
 - To draft: no controlled draft exists yet.
+- Draft complete — pending Director review: controlled draft exists and is ready for human review, but is not approved for operational use.
 - Existing source needs modernisation: legacy Ax4 document exists but needs review, update and control.
 - Concept exists; formalise: working language/framework exists but needs controlled document form.
 - Later: not required for the first controlled release but should be built for maturity.
