@@ -68,7 +68,7 @@ A document marked `Draft complete` is ready for human review but is not approved
 |---:|---|---|---|---|---|
 | 10 | TMP-SHEP-001 | Site Safety, Health and Environment Plan | Source exists — needs modernisation | `docs/03-field-control/` |  |
 | 11 | TMP-JSA-001 | Job Safety Analysis Template | Source exists inside SHEP — needs extraction | `docs/03-field-control/` |  |
-| 12 | TMP-SWMS-001 | Safe Work Method Statement Template | Not started | `docs/03-field-control/` |  |
+| 12 | TMP-SWMS-001 | Safe Work Method Statement Template | Draft complete | `docs/03-field-control/TMP-SWMS-001-safe-work-method-statement-template.md` | Draft completed by ChatGPT policy drafting agent; pending Director review |
 | 13 | FRM-EMR-001 | Emergency Response Form | Not started | `docs/03-field-control/` |  |
 | 14 | FRM-IND-001 | Site Induction Record | Not started | `docs/03-field-control/` |  |
 
