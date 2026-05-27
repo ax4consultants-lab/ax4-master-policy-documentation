@@ -18,6 +18,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `docs/01-corporate-policy/POL-QUA-001-quality-policy.md` as a controlled draft.
 - Added `docs/02-system-governance/MAN-SHEQ-001-sheq-management-manual.md` as a controlled draft.
 - Added `docs/02-system-governance/PRO-DOC-001-document-control-procedure.md` as a controlled draft.
+- Added `docs/06-libraries/LIB-RAS-001-recommended-action-system.md` as a controlled draft.
 
 ### Updated
 
@@ -35,11 +36,12 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `DOCUMENT-REGISTER.md` to mark `PRO-DOC-001 — Document Control Procedure` as `Draft complete — pending Director review`.
 - Updated `COMPLETION-CHECKLIST.md` to mark `LIB-RAS-001 — Recommended Action System` as `Selected / claimed`.
 - Updated `COMPLETION-CHECKLIST.md` to mark `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure` as `Selected / claimed`.
+- Updated `COMPLETION-CHECKLIST.md` to mark `LIB-RAS-001 — Recommended Action System` as `Draft complete`.
+- Updated `DOCUMENT-REGISTER.md` to mark `LIB-RAS-001 — Recommended Action System` as `Draft complete — pending Director review`.
 
 ### Active Claims
 
 - `POL-SHEQ-001 — Integrated SHEQ Policy Statement` selected/claimed by another active drafting agent for controlled draft preparation.
-- `LIB-RAS-001 — Recommended Action System` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
 - `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
 
 ### Current Build Target
@@ -53,3 +55,4 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - `POL-QUA-001 — Quality Policy`
 - `MAN-SHEQ-001 — SHEQ Management Manual`
 - `PRO-DOC-001 — Document Control Procedure`
+- `LIB-RAS-001 — Recommended Action System`
