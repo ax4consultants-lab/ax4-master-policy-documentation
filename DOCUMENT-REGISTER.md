@@ -13,7 +13,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 |---:|---|---|---|---|---|
 | 1 | POL-WHS-001 | Work Health and Safety Policy | Corporate WHS commitment and legal position | Draft complete — pending Director review | P1 |
 | 2 | POL-ENV-001 | Environmental Policy | Corporate environmental commitment | Draft complete — pending Director review | P1 |
-| 3 | POL-QUA-001 | Quality Policy | Corporate quality and defensible reporting commitment | To draft | P1 |
+| 3 | POL-QUA-001 | Quality Policy | Corporate quality and defensible reporting commitment | Draft complete — pending Director review | P1 |
 | 4 | POL-SHEQ-001 | Integrated SHEQ Policy Statement | Tender/prequalification summary statement | To draft | P1 |
 
 ## Phase 2 — System Governance Layer
