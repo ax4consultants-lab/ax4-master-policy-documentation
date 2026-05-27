@@ -20,6 +20,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `docs/02-system-governance/PRO-DOC-001-document-control-procedure.md` as a controlled draft.
 - Added `docs/06-libraries/LIB-RAS-001-recommended-action-system.md` as a controlled draft.
 - Added `docs/02-system-governance/PRO-CON-001-contractor-and-partner-management-procedure.md` as a controlled draft.
+- Added `docs/02-system-governance/PRO-INC-001-incident-hazard-and-near-miss-reporting-procedure.md` as a controlled draft.
 - Added `docs/03-field-control/TMP-SWMS-001-safe-work-method-statement-template.md` as a controlled draft.
 
 ### Updated
@@ -45,6 +46,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `COMPLETION-CHECKLIST.md` to mark `TMP-SWMS-001 — Safe Work Method Statement Template` as `Draft complete`.
 - Updated `DOCUMENT-REGISTER.md` to mark `TMP-SWMS-001 — Safe Work Method Statement Template` as `Draft complete — pending Director review`.
 - Updated `COMPLETION-CHECKLIST.md` to mark `REG-TRN-001 — Training and Competency Register` as `Selected / claimed`.
+- Updated `DOCUMENT-REGISTER.md` to mark `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure` as `Draft complete — pending Director review`.
 
 ### Active Claims
 
@@ -57,11 +59,12 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 
 ### Completed Drafts Pending Review
 
-- `POL-WHS-001 — Work Health and Safety Policy`
-- `POL-ENV-001 — Environmental Policy`
-- `POL-QUA-001 — Quality Policy`
-- `MAN-SHEQ-001 — SHEQ Management Manual`
-- `PRO-DOC-001 — Document Control Procedure`
-- `LIB-RAS-001 — Recommended Action System`
-- `PRO-CON-001 — Contractor and Partner Management Procedure`
-- `TMP-SWMS-001 — Safe Work Method Statement Template`
+- `POL-WHS-001 — Work Health and Safety Policy` — completed by ChatGPT policy drafting agent.
+- `POL-ENV-001 — Environmental Policy` — completed by ChatGPT policy drafting agent.
+- `POL-QUA-001 — Quality Policy` — completed by ChatGPT policy drafting agent.
+- `MAN-SHEQ-001 — SHEQ Management Manual` — completed by ChatGPT policy drafting agent.
+- `PRO-DOC-001 — Document Control Procedure` — completed by ChatGPT policy drafting agent.
+- `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure` — completed by ChatGPT policy drafting agent.
+- `PRO-CON-001 — Contractor and Partner Management Procedure` — completed by ChatGPT policy drafting agent.
+- `LIB-RAS-001 — Recommended Action System` — completed by ChatGPT policy drafting agent.
+- `TMP-SWMS-001 — Safe Work Method Statement Template` — completed by ChatGPT policy drafting agent.
