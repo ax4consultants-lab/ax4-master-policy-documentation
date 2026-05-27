@@ -60,7 +60,7 @@ A document marked `Draft complete` is ready for human review but is not approved
 | 6 | PRO-DOC-001 | Document Control Procedure | Draft complete | `docs/02-system-governance/PRO-DOC-001-document-control-procedure.md` | Draft completed by ChatGPT policy drafting agent; pending Director review |
 | 7 | PRO-INC-001 | Incident, Hazard and Near Miss Reporting Procedure | Draft complete | `docs/02-system-governance/PRO-INC-001-incident-hazard-and-near-miss-reporting-procedure.md` | Draft completed by ChatGPT policy drafting agent; pending Director review |
 | 8 | PRO-CON-001 | Contractor and Partner Management Procedure | Draft complete | `docs/02-system-governance/PRO-CON-001-contractor-and-partner-management-procedure.md` | Draft completed by ChatGPT policy drafting agent; pending Director review |
-| 9 | REG-TRN-001 | Training and Competency Register | Not started | `docs/02-system-governance/` |  |
+| 9 | REG-TRN-001 | Training and Competency Register | Selected / claimed | `docs/02-system-governance/` | Claimed by ChatGPT policy drafting agent; preparing controlled draft |
 
 ## Phase 3 — Field Control Layer
 
