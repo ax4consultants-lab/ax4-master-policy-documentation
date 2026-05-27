@@ -57,7 +57,7 @@ A document marked `Draft complete` is ready for human review but is not approved
 | # | Code | Document Name | Status | File | Claimed By / Notes |
 |---:|---|---|---|---|---|
 | 5 | MAN-SHEQ-001 | SHEQ Management Manual | Draft complete | `docs/02-system-governance/MAN-SHEQ-001-sheq-management-manual.md` | Draft completed by ChatGPT policy drafting agent; pending Director review |
-| 6 | PRO-DOC-001 | Document Control Procedure | Selected / claimed | `docs/02-system-governance/` | Claimed by ChatGPT policy drafting agent; preparing controlled draft |
+| 6 | PRO-DOC-001 | Document Control Procedure | In progress | `docs/02-system-governance/` | Claimed by ChatGPT policy drafting agent; controlled draft in preparation |
 | 7 | PRO-INC-001 | Incident, Hazard and Near Miss Reporting Procedure | Not started | `docs/02-system-governance/` |  |
 | 8 | PRO-CON-001 | Contractor and Partner Management Procedure | Not started | `docs/02-system-governance/` |  |
 | 9 | REG-TRN-001 | Training and Competency Register | Not started | `docs/02-system-governance/` |  |
