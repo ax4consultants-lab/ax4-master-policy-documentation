@@ -27,11 +27,28 @@ Every agent must start by reading:
 1. `README.md`
 2. `MASTER-ROADMAP.md`
 3. `DOCUMENT-REGISTER.md`
-4. `AGENT-OPERATING-RULES.md`
-5. `RESEARCH-BRIEF-TEMPLATE.md`
-6. `changelog/CHANGELOG.md`
+4. `COMPLETION-CHECKLIST.md`
+5. `AGENT-OPERATING-RULES.md`
+6. `RESEARCH-BRIEF-TEMPLATE.md`
+7. `changelog/CHANGELOG.md`
 
 Then work only on the assigned document code.
+
+---
+
+## Completion Tracking Rule
+
+Every document workblock must update completion tracking before handoff.
+
+Before an agent finishes, it must:
+
+1. create or update the assigned controlled document;
+2. update `COMPLETION-CHECKLIST.md` with the current status and file path;
+3. update `DOCUMENT-REGISTER.md` if the document status changes;
+4. add a dated entry to `changelog/CHANGELOG.md`;
+5. report assumptions, linked documents, compliance references used and open questions.
+
+A document marked `Draft complete` is ready for human review but is not approved for operational use until signed off by the nominated approver.
 
 ---
 
@@ -42,6 +59,7 @@ ax4-master-policy-documentation/
 ├── README.md
 ├── MASTER-ROADMAP.md
 ├── DOCUMENT-REGISTER.md
+├── COMPLETION-CHECKLIST.md
 ├── AGENT-OPERATING-RULES.md
 ├── RESEARCH-BRIEF-TEMPLATE.md
 ├── docs/
@@ -87,7 +105,7 @@ All controlled documents must include title, document code, category, version, s
 
 ## Agent Rules Summary
 
-Agents must work only on the assigned document code, preserve document separation, avoid overstatement, use Australian English, align with SA WHS requirements, include assumptions and open questions, and log significant document creation or updates in `changelog/CHANGELOG.md`.
+Agents must work only on the assigned document code, preserve document separation, avoid overstatement, use Australian English, align with SA WHS requirements, include assumptions and open questions, update the completion checklist, update the document register where status changes and log significant document creation or updates in `changelog/CHANGELOG.md`.
 
 ---
 
@@ -103,6 +121,10 @@ These are source materials only. They are not automatically approved final docum
 
 Status: **controlled workspace established**.
 
-Next build target:
+Current document progress is tracked in:
+
+> `COMPLETION-CHECKLIST.md`
+
+Next build target remains:
 
 > `POL-WHS-001 — Work Health and Safety Policy`
