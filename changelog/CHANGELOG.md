@@ -19,6 +19,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `docs/02-system-governance/MAN-SHEQ-001-sheq-management-manual.md` as a controlled draft.
 - Added `docs/02-system-governance/PRO-DOC-001-document-control-procedure.md` as a controlled draft.
 - Added `docs/06-libraries/LIB-RAS-001-recommended-action-system.md` as a controlled draft.
+- Added `docs/02-system-governance/PRO-CON-001-contractor-and-partner-management-procedure.md` as a controlled draft.
 
 ### Updated
 
@@ -38,6 +39,8 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `COMPLETION-CHECKLIST.md` to mark `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure` as `Selected / claimed`.
 - Updated `COMPLETION-CHECKLIST.md` to mark `LIB-RAS-001 — Recommended Action System` as `Draft complete`.
 - Updated `DOCUMENT-REGISTER.md` to mark `LIB-RAS-001 — Recommended Action System` as `Draft complete — pending Director review`.
+- Updated `COMPLETION-CHECKLIST.md` to mark `PRO-CON-001 — Contractor and Partner Management Procedure` as `Draft complete`.
+- Updated `DOCUMENT-REGISTER.md` to mark `PRO-CON-001 — Contractor and Partner Management Procedure` as `Draft complete — pending Director review`.
 
 ### Active Claims
 
@@ -56,3 +59,4 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - `MAN-SHEQ-001 — SHEQ Management Manual`
 - `PRO-DOC-001 — Document Control Procedure`
 - `LIB-RAS-001 — Recommended Action System`
+- `PRO-CON-001 — Contractor and Partner Management Procedure`
