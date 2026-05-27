@@ -44,7 +44,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 | 16 | SOP-ASM-002 | Intrusive Investigation Procedure | Intrusive inspection before refurbishment/demolition | To draft | P4 |
 | 17 | SOP-ASM-003 | Register and Risk Assessment Reporting Procedure | Report generation, QA and issue procedure | To draft | P4 |
 | 18 | LIB-LIM-001 | Report Limitations Library | Standard limitations and defensibility clauses | To draft | P4 |
-| 19 | LIB-RAS-001 | Recommended Action System | Standard register action codes and wording | Concept exists; formalise | P4 |
+| 19 | LIB-RAS-001 | Recommended Action System | Standard register action codes and wording | Draft complete — pending Director review | P4 |
 
 ## Optional Mature Build Additions
 
