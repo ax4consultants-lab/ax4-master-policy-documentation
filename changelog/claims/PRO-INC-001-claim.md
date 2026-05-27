@@ -6,7 +6,7 @@ Document code: PRO-INC-001
 
 Document title: Incident, Hazard and Near Miss Reporting Procedure
 
-Claimed by: ChatGPT policy drafting agent
+Claimed by: GPT2
 
 Status: Selected / claimed
 
