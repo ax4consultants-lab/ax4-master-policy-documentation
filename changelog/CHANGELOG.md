@@ -19,6 +19,8 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 
 - Updated `DOCUMENT-REGISTER.md` to mark `POL-ENV-001 — Environmental Policy` as `Draft complete — pending Director review`.
 - Updated `README.md` to require agents to update `COMPLETION-CHECKLIST.md`, `DOCUMENT-REGISTER.md` and `changelog/CHANGELOG.md` before handoff.
+- Updated `COMPLETION-CHECKLIST.md` to function as a live agent orientation board where agents mark documents as `Selected / claimed` before work begins.
+- Updated `README.md` to require document claiming at the start of each agent workblock, not only at completion.
 
 ### Current Build Target
 
