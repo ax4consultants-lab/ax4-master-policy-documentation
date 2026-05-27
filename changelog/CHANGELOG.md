@@ -14,6 +14,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `RESEARCH-BRIEF-TEMPLATE.md`.
 - Added `docs/01-corporate-policy/POL-ENV-001-environmental-policy.md` as a controlled draft.
 - Added `COMPLETION-CHECKLIST.md` to track document completion status across the suite.
+- Added `docs/01-corporate-policy/POL-WHS-001-work-health-and-safety-policy.md` as a controlled draft.
 
 ### Updated
 
@@ -21,15 +22,17 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `README.md` to require agents to update `COMPLETION-CHECKLIST.md`, `DOCUMENT-REGISTER.md` and `changelog/CHANGELOG.md` before handoff.
 - Updated `COMPLETION-CHECKLIST.md` to function as a live agent orientation board where agents mark documents as `Selected / claimed` before work begins.
 - Updated `README.md` to require document claiming at the start of each agent workblock, not only at completion.
+- Updated `COMPLETION-CHECKLIST.md` to mark `POL-WHS-001 — Work Health and Safety Policy` as `Draft complete`.
 
 ### Active Claims
 
-- `POL-WHS-001 — Work Health and Safety Policy` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
+- No active claim from this agent. `POL-WHS-001 — Work Health and Safety Policy` has been drafted and released for Director review.
 
 ### Current Build Target
 
-- `POL-WHS-001 — Work Health and Safety Policy`
+- `POL-SHEQ-001 — Integrated SHEQ Policy Statement`
 
 ### Completed Drafts Pending Review
 
+- `POL-WHS-001 — Work Health and Safety Policy`
 - `POL-ENV-001 — Environmental Policy`
