@@ -20,7 +20,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 
 | # | Code | Document Name | Function | Status | Priority |
 |---:|---|---|---|---|---|
-| 5 | MAN-SHEQ-001 | SHEQ Management Manual | System governance and operating model | To draft | P2 |
+| 5 | MAN-SHEQ-001 | SHEQ Management Manual | System governance and operating model | Draft complete — pending Director review | P2 |
 | 6 | PRO-DOC-001 | Document Control Procedure | Version, approval, archive and template control | To draft | P2 |
 | 7 | PRO-INC-001 | Incident, Hazard and Near Miss Reporting Procedure | Incident/hazard reporting and corrective action process | To draft | P2 |
 | 8 | PRO-CON-001 | Contractor and Partner Management Procedure | Contractor, partner and technical supplier control | To draft | P2 |
