@@ -12,7 +12,18 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `DOCUMENT-REGISTER.md`.
 - Added `AGENT-OPERATING-RULES.md`.
 - Added `RESEARCH-BRIEF-TEMPLATE.md`.
+- Added `docs/01-corporate-policy/POL-ENV-001-environmental-policy.md` as a controlled draft.
+- Added `COMPLETION-CHECKLIST.md` to track document completion status across the suite.
+
+### Updated
+
+- Updated `DOCUMENT-REGISTER.md` to mark `POL-ENV-001 — Environmental Policy` as `Draft complete — pending Director review`.
+- Updated `README.md` to require agents to update `COMPLETION-CHECKLIST.md`, `DOCUMENT-REGISTER.md` and `changelog/CHANGELOG.md` before handoff.
 
 ### Current Build Target
 
 - `POL-WHS-001 — Work Health and Safety Policy`
+
+### Completed Drafts Pending Review
+
+- `POL-ENV-001 — Environmental Policy`
