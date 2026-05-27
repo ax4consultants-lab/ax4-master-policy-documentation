@@ -22,6 +22,10 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `COMPLETION-CHECKLIST.md` to function as a live agent orientation board where agents mark documents as `Selected / claimed` before work begins.
 - Updated `README.md` to require document claiming at the start of each agent workblock, not only at completion.
 
+### Active Claims
+
+- `POL-WHS-001 — Work Health and Safety Policy` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
+
 ### Current Build Target
 
 - `POL-WHS-001 — Work Health and Safety Policy`
