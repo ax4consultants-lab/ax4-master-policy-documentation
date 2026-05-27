@@ -23,7 +23,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 | 5 | MAN-SHEQ-001 | SHEQ Management Manual | System governance and operating model | Draft complete — pending Director review | P2 |
 | 6 | PRO-DOC-001 | Document Control Procedure | Version, approval, archive and template control | Draft complete — pending Director review | P2 |
 | 7 | PRO-INC-001 | Incident, Hazard and Near Miss Reporting Procedure | Incident/hazard reporting and corrective action process | To draft | P2 |
-| 8 | PRO-CON-001 | Contractor and Partner Management Procedure | Contractor, partner and technical supplier control | Draft complete — pending Director review | P2 |
+| 8 | PRO-CON-001 | Contractor, partner and technical supplier control | Contractor and Partner Management Procedure | Draft complete — pending Director review | P2 |
 | 9 | REG-TRN-001 | Training and Competency Register | Competency evidence register | To draft | P2 |
 
 ## Phase 3 — Field Control Layer
@@ -32,7 +32,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 |---:|---|---|---|---|---|
 | 10 | TMP-SHEP-001 | Site Safety, Health and Environment Plan | Site-specific safety and environmental planning | Existing source needs modernisation | P3 |
 | 11 | TMP-JSA-001 | Job Safety Analysis Template | Dynamic task/site risk assessment | Existing JSA embedded in SHEP; extract/modernise | P3 |
-| 12 | TMP-SWMS-001 | Safe Work Method Statement Template | Master SWMS template | To draft | P3 |
+| 12 | TMP-SWMS-001 | Safe Work Method Statement Template | Master SWMS template | Draft complete — pending Director review | P3 |
 | 13 | FRM-EMR-001 | Emergency Response Form | Field emergency reference | To draft | P3 |
 | 14 | FRM-IND-001 | Site Induction Record | Site induction/sign-on evidence | To draft | P3 |
 
