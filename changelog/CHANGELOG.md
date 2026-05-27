@@ -25,10 +25,12 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `README.md` to require document claiming at the start of each agent workblock, not only at completion.
 - Updated `COMPLETION-CHECKLIST.md` to mark `POL-WHS-001 — Work Health and Safety Policy` as `Draft complete`.
 - Updated `DOCUMENT-REGISTER.md` to mark `POL-QUA-001 — Quality Policy` as `Draft complete — pending Director review`.
+- Updated `COMPLETION-CHECKLIST.md` to mark `MAN-SHEQ-001 — SHEQ Management Manual` as `Selected / claimed`.
 
 ### Active Claims
 
 - `POL-SHEQ-001 — Integrated SHEQ Policy Statement` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
+- `MAN-SHEQ-001 — SHEQ Management Manual` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
 
 ### Current Build Target
 
