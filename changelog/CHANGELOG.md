@@ -15,6 +15,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `docs/01-corporate-policy/POL-ENV-001-environmental-policy.md` as a controlled draft.
 - Added `COMPLETION-CHECKLIST.md` to track document completion status across the suite.
 - Added `docs/01-corporate-policy/POL-WHS-001-work-health-and-safety-policy.md` as a controlled draft.
+- Added `docs/01-corporate-policy/POL-QUA-001-quality-policy.md` as a controlled draft.
 
 ### Updated
 
@@ -23,6 +24,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `COMPLETION-CHECKLIST.md` to function as a live agent orientation board where agents mark documents as `Selected / claimed` before work begins.
 - Updated `README.md` to require document claiming at the start of each agent workblock, not only at completion.
 - Updated `COMPLETION-CHECKLIST.md` to mark `POL-WHS-001 — Work Health and Safety Policy` as `Draft complete`.
+- Updated `DOCUMENT-REGISTER.md` to mark `POL-QUA-001 — Quality Policy` as `Draft complete — pending Director review`.
 
 ### Active Claims
 
@@ -36,3 +38,4 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 
 - `POL-WHS-001 — Work Health and Safety Policy`
 - `POL-ENV-001 — Environmental Policy`
+- `POL-QUA-001 — Quality Policy`
