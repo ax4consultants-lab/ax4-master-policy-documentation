@@ -47,7 +47,7 @@ A document marked `Draft complete` is ready for human review but is not approved
 
 | # | Code | Document Name | Status | File | Claimed By / Notes |
 |---:|---|---|---|---|---|
-| 1 | POL-WHS-001 | Work Health and Safety Policy | Selected / claimed | `docs/01-corporate-policy/` | Claimed by ChatGPT policy drafting agent; preparing controlled draft |
+| 1 | POL-WHS-001 | Work Health and Safety Policy | In progress | `docs/01-corporate-policy/` | Claimed by ChatGPT policy drafting agent; controlled draft in preparation |
 | 2 | POL-ENV-001 | Environmental Policy | Draft complete | `docs/01-corporate-policy/POL-ENV-001-environmental-policy.md` | Draft completed by ChatGPT policy drafting agent; pending Director review |
 | 3 | POL-QUA-001 | Quality Policy | In progress | `docs/01-corporate-policy/` | Claimed by ChatGPT policy drafting agent; preparing controlled draft |
 | 4 | POL-SHEQ-001 | Integrated SHEQ Policy Statement | Not started | `docs/01-corporate-policy/` |  |
