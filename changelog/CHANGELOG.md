@@ -28,7 +28,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 
 ### Active Claims
 
-- No active claim from this agent. `POL-WHS-001 — Work Health and Safety Policy` has been drafted and released for Director review.
+- `POL-SHEQ-001 — Integrated SHEQ Policy Statement` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
 
 ### Current Build Target
 
