@@ -80,7 +80,7 @@ A document marked `Draft complete` is ready for human review but is not approved
 | 16 | SOP-ASM-002 | Intrusive Investigation Procedure | Not started | `docs/04-technical-asbestos/` |  |
 | 17 | SOP-ASM-003 | Asbestos Register and Risk Assessment Reporting Procedure | Not started | `docs/04-technical-asbestos/` |  |
 | 18 | LIB-LIM-001 | Report Limitations Library | Not started | `docs/06-libraries/` |  |
-| 19 | LIB-RAS-001 | Recommended Action System | Concept exists — needs formalisation | `docs/06-libraries/` |  |
+| 19 | LIB-RAS-001 | Recommended Action System | Selected / claimed | `docs/06-libraries/` | Claimed by ChatGPT policy drafting agent; preparing controlled draft |
 
 ## Optional Mature Build Additions
 
