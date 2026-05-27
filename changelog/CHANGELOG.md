@@ -44,15 +44,16 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `DOCUMENT-REGISTER.md` to mark `PRO-CON-001 — Contractor and Partner Management Procedure` as `Draft complete — pending Director review`.
 - Updated `COMPLETION-CHECKLIST.md` to mark `TMP-SWMS-001 — Safe Work Method Statement Template` as `Draft complete`.
 - Updated `DOCUMENT-REGISTER.md` to mark `TMP-SWMS-001 — Safe Work Method Statement Template` as `Draft complete — pending Director review`.
+- Updated `COMPLETION-CHECKLIST.md` to mark `REG-TRN-001 — Training and Competency Register` as `Selected / claimed`.
 
 ### Active Claims
 
 - `POL-SHEQ-001 — Integrated SHEQ Policy Statement` selected/claimed by another active drafting agent for controlled draft preparation.
-- `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
+- `REG-TRN-001 — Training and Competency Register` selected/claimed by ChatGPT policy drafting agent for controlled draft preparation.
 
 ### Current Build Target
 
-- `PRO-INC-001 — Incident, Hazard and Near Miss Reporting Procedure`
+- `REG-TRN-001 — Training and Competency Register`
 
 ### Completed Drafts Pending Review
 
