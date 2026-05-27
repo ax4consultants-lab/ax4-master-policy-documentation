@@ -1,89 +1,108 @@
 # Ax4 Master Policy Documentation
 
-> **Central knowledge base for Ax4 Consultants.**  
-> This repository is the authoritative source for all operational policies, compliance standards, service protocols, and agentic system documentation.  
-> GPT agents and AI connectors with GitHub access should treat this repo as the primary reference.
+Controlled documentation workspace for **Ax4 Consulting Pty Ltd**, trading as **Ax4**, **Ax4 Asbestos Consultants** and **Ax4 WHS Consultants**.
+
+This repository is the source of truth for Ax4 policy, WHS/SHEQ governance, field controls, asbestos technical procedures, forms, registers, limitations libraries and standard wording systems.
+
+It is **not** the Atom/Ax4 agentic runtime repository. Atom, EchoForge and other agents may ingest or reference this repository, but this repository owns the policy/documentation source material.
 
 ---
 
-## 📁 Repository Structure
+## Primary Mission
 
-```
+Build and maintain a controlled WHS/SHEQ documentation suite suitable for South Australian WHS compliance, asbestos and hazardous materials consulting, tender submissions, field safety control, technical report defensibility, repeatable document production and future automation through Atom/EchoForge workflows.
+
+---
+
+## Core Rule
+
+Policy sets commitment. The SHEQ Manual explains the system. Procedures define how work is done. SHEP, SWMS and JSA documents control site execution. Forms and registers prove it happened. Libraries standardise wording and automation logic.
+
+---
+
+## Repository Orientation
+
+Every agent must start by reading:
+
+1. `README.md`
+2. `MASTER-ROADMAP.md`
+3. `DOCUMENT-REGISTER.md`
+4. `AGENT-OPERATING-RULES.md`
+5. `RESEARCH-BRIEF-TEMPLATE.md`
+6. `changelog/CHANGELOG.md`
+
+Then work only on the assigned document code.
+
+---
+
+## Repository Structure
+
+```text
 ax4-master-policy-documentation/
-│
-├── policies/                    # Core operational & compliance policies
-│   ├── whs-asbestos/            # WHS & Asbestos management policies
-│   ├── data-privacy/            # Data handling and privacy policies
-│   └── general/                 # General business policies
-│
-├── procedures/                  # Step-by-step operational procedures
-│   ├── site-assessment/         # Site assessment procedures
-│   ├── reporting/               # Reporting and documentation procedures
-│   └── emergency/               # Emergency response procedures
-│
-├── standards/                   # Compliance standards and reference frameworks
-│   ├── regulatory/              # Regulatory references (SA WHS Act, etc.)
-│   └── internal/                # Ax4 internal standards
-│
-├── templates/                   # Document and report templates
-│
-├── ai-systems/                  # Agentic system documentation
-│   ├── gpt-instructions/        # GPT custom instruction sets
-│   ├── agent-configs/           # Agent configuration notes
-│   └── prompts/                 # Approved prompt libraries
-│
-└── changelog/                   # Policy version history and change log
+├── README.md
+├── MASTER-ROADMAP.md
+├── DOCUMENT-REGISTER.md
+├── AGENT-OPERATING-RULES.md
+├── RESEARCH-BRIEF-TEMPLATE.md
+├── docs/
+│   ├── 01-corporate-policy/
+│   ├── 02-system-governance/
+│   ├── 03-field-control/
+│   ├── 04-technical-asbestos/
+│   ├── 05-forms-registers/
+│   └── 06-libraries/
+├── source-material/
+│   ├── legacy-policy/
+│   ├── shep/
+│   ├── sop/
+│   └── limitation-wording/
+├── changelog/
+└── archive/
 ```
 
 ---
 
-## 🤖 For AI Agents & GPT Connectors
+## Core Build Count
 
-If you are an AI agent reading this repository:
+- **Core suite:** 19 controlled documents
+- **Mature suite:** 25 controlled documents
 
-1. **Start here** — This README defines the structure and intent of all documents.
-2. **Respect versioning** — All policy documents should include a version number and effective date in their header.
-3. **Do not modify without instruction** — Only make changes when explicitly directed by an authorised Ax4 operator.
-4. **Reference by path** — When citing a document, reference its full path within this repo.
-5. **Log significant changes** — Append a record to `changelog/CHANGELOG.md` when updating or creating policy documents.
+The current build target is the 19-document core suite, then expansion to the mature suite where useful.
 
 ---
 
-## 🏢 About Ax4 Consultants
+## Jurisdiction
 
-**Ax4 Consultants** specialises in:
-- WHS & Asbestos Compliance Consulting (South Australia)
-- Agentic AI System Development
-- Digital Infrastructure & SEO
+Default jurisdiction: **South Australia**.
 
-**Primary Contact:** Dane Amorosi  
-**Location:** Oakden, South Australia, AU  
-**Company:** Ax4 Consultants (Ax4)
+Key references for drafting include the Work Health and Safety Act 2012 (SA), Work Health and Safety Regulations 2012 (SA), Safe Work Australia asbestos Codes of Practice, SafeWork SA guidance and relevant Australian Standards.
 
 ---
 
-## 📋 Document Standards
+## Document Control Standard
 
-All policy and procedure documents in this repository must include the following header:
-
-```markdown
----
-title: [Document Title]
-category: [policy | procedure | standard | template]
-version: 1.0
-effective_date: YYYY-MM-DD
-last_reviewed: YYYY-MM-DD
-owner: Ax4 Consultants
-status: [draft | active | archived]
----
-```
+All controlled documents must include title, document code, category, version, status, owner, approver, effective date and review date.
 
 ---
 
-## 🔄 Changelog
+## Agent Rules Summary
 
-See [`changelog/CHANGELOG.md`](changelog/CHANGELOG.md) for full version history.
+Agents must work only on the assigned document code, preserve document separation, avoid overstatement, use Australian English, align with SA WHS requirements, include assumptions and open questions, and log significant document creation or updates in `changelog/CHANGELOG.md`.
 
 ---
 
-*This repository is maintained by Ax4 Consultants. Unauthorised modification is prohibited.*
+## Source Material
+
+Existing Ax4 source documents include the legacy Ax4 SHE Policy, SHEP, SOP1, quote/report limitation wording and Recommended Action System concepts.
+
+These are source materials only. They are not automatically approved final documents.
+
+---
+
+## Current Status
+
+Status: **controlled workspace established**.
+
+Next build target:
+
+> `POL-WHS-001 — Work Health and Safety Policy`
