@@ -32,13 +32,28 @@ Every agent must start by reading:
 6. `RESEARCH-BRIEF-TEMPLATE.md`
 7. `changelog/CHANGELOG.md`
 
-Then work only on the assigned document code.
+Then work only on the single document code they have selected and claimed.
+
+---
+
+## Live Agent Selection Rule
+
+`COMPLETION-CHECKLIST.md` is the live orientation board for the documentation build.
+
+Before drafting, researching or editing begins, each agent must:
+
+1. identify the single document code they are selecting;
+2. update `COMPLETION-CHECKLIST.md` immediately by marking that document as `Selected / claimed`;
+3. add the agent name or identifier in the `Claimed By / Notes` column where known;
+4. only then begin research, drafting or editing work.
+
+This selection step must happen at the start of the workblock, not at completion. Its purpose is to prevent duplicate work and give all live agents a clear orientation surface.
 
 ---
 
 ## Completion Tracking Rule
 
-Every document workblock must update completion tracking before handoff.
+Every document workblock must also update completion tracking before handoff.
 
 Before an agent finishes, it must:
 
@@ -105,7 +120,7 @@ All controlled documents must include title, document code, category, version, s
 
 ## Agent Rules Summary
 
-Agents must work only on the assigned document code, preserve document separation, avoid overstatement, use Australian English, align with SA WHS requirements, include assumptions and open questions, update the completion checklist, update the document register where status changes and log significant document creation or updates in `changelog/CHANGELOG.md`.
+Agents must work only on the assigned document code, preserve document separation, avoid overstatement, use Australian English, align with SA WHS requirements, include assumptions and open questions, claim the selected document in the completion checklist before starting, update the checklist as status changes, update the document register where status changes and log significant document creation or updates in `changelog/CHANGELOG.md`.
 
 ---
 
@@ -121,7 +136,7 @@ These are source materials only. They are not automatically approved final docum
 
 Status: **controlled workspace established**.
 
-Current document progress is tracked in:
+Current document selection and progress are tracked in:
 
 > `COMPLETION-CHECKLIST.md`
 
