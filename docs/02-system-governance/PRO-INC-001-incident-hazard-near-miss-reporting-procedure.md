@@ -19,6 +19,7 @@
 | Version | Date | Description | Author / Reviewer |
 |---|---|---|---|
 | 1.0 | 2026-05-27 | Initial controlled draft prepared for review | ChatGPT policy drafting agent |
+| 1.0-review | 2026-05-27 | Human review decisions incorporated: separate incident form, Director notifications, corrective action tracking, insurance trigger note and combined WHS/environment form position | ChatGPT policy drafting agent / Dane Amorosi |
 
 ---
 
@@ -76,7 +77,7 @@ This procedure is aligned, so far as relevant to Ax4's scope of work, with:
 
 SafeWork SA identifies that a PCBU must notify fatalities and certain serious injuries, illnesses and dangerous incidents that occur at work as a result of the conduct of the business or undertaking. Incidents may involve workers, contractors or members of the public. Ax4 must therefore treat potential notifiable incidents as escalation matters requiring Director review and prompt action.
 
-This procedure does not replace legal advice. Where an incident may be notifiable, serious, disputed, legally sensitive or regulator-facing, the matter must be escalated to an Ax4 Director immediately.
+This procedure does not replace legal advice. Where an incident may be notifiable, serious, disputed, legally sensitive or regulator-facing, the matter must be escalated to both Ax4 Directors immediately.
 
 ---
 
@@ -130,7 +131,7 @@ A notifiable incident is a workplace event that must be reported to the WHS regu
 - a serious injury or illness;
 - a dangerous incident that exposes a person to a serious risk, even if no injury occurs.
 
-Potential notifiable incidents must be escalated to an Ax4 Director immediately.
+Potential notifiable incidents must be escalated to both Ax4 Directors immediately.
 
 ### 4.5 Corrective Action
 
@@ -153,6 +154,7 @@ Ax4 Directors are responsible for:
 - deciding whether legal, technical, regulatory or client escalation is required;
 - ensuring notifiable incident obligations are considered promptly;
 - approving significant corrective actions;
+- deciding whether insurance notification is required after appropriate broker or legal review;
 - ensuring resources are available to control risks and complete investigations;
 - reviewing trends and lessons learned during management review.
 
@@ -162,9 +164,9 @@ Managers, supervisors and persons coordinating Ax4 work are responsible for:
 
 - ensuring incidents, hazards and near misses are reported and recorded;
 - making sure immediate controls are implemented;
-- notifying Ax4 Directors where escalation triggers are met;
+- notifying both Ax4 Directors where escalation triggers are met;
 - liaising with clients, site contacts and contractors where required;
-- assigning corrective actions;
+- assigning corrective actions through the SHEQ Manual system;
 - verifying action close-out;
 - ensuring relevant project records are retained.
 
@@ -223,7 +225,7 @@ Immediate response steps are:
 3. Provide or arrange first aid if required.
 4. Contact emergency services on 000 where there is immediate danger, serious injury, fire, collapse, uncontrolled exposure, serious contamination or other emergency.
 5. Prevent further access or disturbance where safe and practicable.
-6. Notify the Ax4 Director, manager or project lead.
+6. Notify both Ax4 Directors, or notify one Director immediately and the second Director as soon as practicable if both cannot be reached at once.
 7. Notify the client or site contact where the matter affects the site, occupants, contractors or client operations.
 8. Preserve the scene where a notifiable incident may have occurred, except where disturbance is necessary to assist an injured person, remove a deceased person, make the site safe or prevent further incident.
 9. Record key facts, photographs and names of persons involved where safe and appropriate.
@@ -240,7 +242,7 @@ If asbestos-containing material, suspected asbestos-containing material, asbesto
 - prevent access to the affected area where safe and practicable;
 - avoid tracking dust, debris or contamination from the affected area;
 - use suitable PPE/RPE based on the risk and only if safe to do so;
-- notify the Ax4 Director or project lead;
+- notify both Ax4 Directors or the project lead immediately, with Director notification to follow as soon as practicable;
 - notify the client or site contact;
 - record the location, material, condition, photographs and circumstances;
 - recommend further assessment, sampling, isolation, decontamination, licensed removal, hygienist support, air monitoring or clearance where required;
@@ -254,7 +256,7 @@ Ax4 must not state that a site or area is asbestos-free. Any advice must be limi
 
 ## 9. Notifiable Incident Escalation
 
-A potential notifiable incident must be escalated immediately to an Ax4 Director.
+A potential notifiable incident must be escalated immediately to both Ax4 Directors.
 
 Potential notifiable incident indicators include:
 
@@ -288,10 +290,10 @@ The following internal timeframes apply:
 
 | Event Type | Internal Reporting Timeframe |
 |---|---|
-| Life-threatening incident, death, serious injury, serious exposure or emergency | Immediately by phone to an Ax4 Director |
-| Potential notifiable incident | Immediately by phone to an Ax4 Director |
-| Asbestos disturbance, suspected exposure or uncontrolled hazardous material | Immediately by phone to an Ax4 Director or project lead |
-| Injury requiring first aid or medical attention | Same day |
+| Life-threatening incident, death, serious injury, serious exposure or emergency | Immediately by phone to both Ax4 Directors |
+| Potential notifiable incident | Immediately by phone to both Ax4 Directors |
+| Asbestos disturbance, suspected exposure or uncontrolled hazardous material | Immediately by phone to both Ax4 Directors or project lead, with Director notification to follow |
+| Injury requiring first aid or medical attention | Same day to both Ax4 Directors or nominated project lead |
 | Hazard requiring work to stop or change | Immediately before work continues |
 | Near miss with serious potential | Same day |
 | Minor hazard or improvement item | As soon as practicable and no later than the next working day |
@@ -301,6 +303,8 @@ Phone notification should be followed by written record as soon as practicable.
 ---
 
 ## 11. Incident, Hazard and Near Miss Record
+
+Ax4 will create and maintain a separate combined incident, hazard and near miss form under `FRM-INC-001`. For the current system stage, `FRM-INC-001` should be a combined WHS and environmental incident form rather than separate WHS and environmental forms.
 
 Records must be clear, factual and suitable for internal review, client communication and regulator-facing use where required.
 
@@ -318,6 +322,7 @@ Records should include:
 - photographs or supporting evidence where appropriate;
 - whether work was stopped;
 - whether emergency services, client, contractor or regulator notification was required;
+- whether insurance notification was considered after broker/legal review;
 - initial risk rating or seriousness classification;
 - corrective actions required;
 - responsible person;
@@ -354,6 +359,8 @@ Serious incidents, suspected asbestos exposure, potential notifiable incidents a
 
 Corrective actions must be assigned to a responsible person and tracked until close-out.
 
+For the current system stage, corrective actions will be tracked inside the SHEQ Manual system rather than in a standalone corrective action register. This position may be reviewed as the system matures.
+
 Corrective actions may include:
 
 - stopping or rescheduling work;
@@ -373,7 +380,17 @@ Corrective actions must be proportionate to the risk and must not create unsuppo
 
 ---
 
-## 14. Close-Out Requirements
+## 14. Insurance Notification Review
+
+Insurance notification is not automatic for every incident, hazard or near miss.
+
+Where an incident may involve liability, professional indemnity exposure, property damage, personal injury, alleged negligence, client dispute, third-party claim, regulator involvement, significant asbestos disturbance, exposure concern or reputational risk, Ax4 Directors must manually consider insurance notification after appropriate broker and/or legal review.
+
+Insurance-related decisions must be made by humans and recorded in the project or incident file. This procedure does not authorise automated insurance notification.
+
+---
+
+## 15. Close-Out Requirements
 
 An incident, hazard or near miss may only be closed when:
 
@@ -391,7 +408,7 @@ Where the corrective action is controlled by the client, principal contractor, r
 
 ---
 
-## 15. Communication and Confidentiality
+## 16. Communication and Confidentiality
 
 Incident communication must be factual, controlled and appropriate to the audience.
 
@@ -403,6 +420,7 @@ External communication should be managed by an Ax4 Director or nominated project
 - suspected exposure;
 - asbestos disturbance or contamination;
 - potential regulator notification;
+- insurance notification consideration;
 - media, legal, insurance or contractual sensitivity;
 - client dispute or complaint;
 - reputational risk.
@@ -411,13 +429,13 @@ Project communications must be retained in the project file where they form part
 
 ---
 
-## 16. Records and Retention
+## 17. Records and Retention
 
 Incident, hazard and near miss records must be retained in the relevant Ax4 WHS/SHEQ or project record system.
 
 Records may include:
 
-- incident/hazard/near miss forms;
+- `FRM-INC-001 — Incident, Hazard and Near Miss Report Form`;
 - photographs;
 - emails and client notifications;
 - field notes;
@@ -427,14 +445,15 @@ Records may include:
 - asbestos registers or hazardous materials registers;
 - clearance certificates, ARCPs, air monitoring results or removal documentation where relevant;
 - regulator notifications and correspondence;
-- corrective action records;
+- corrective action records within the SHEQ Manual system;
+- insurance/broker/legal review notes where applicable;
 - close-out evidence.
 
 Records must be stored so they are retrievable, controlled and protected from inappropriate alteration.
 
 ---
 
-## 17. Review and Continuous Improvement
+## 18. Review and Continuous Improvement
 
 Incident, hazard and near miss information must be used to improve Ax4's WHS/SHEQ system.
 
@@ -448,7 +467,8 @@ Review activities may include:
 - update of training and competency requirements;
 - review of contractor and partner performance;
 - review of report limitations and client communication wording;
-- review of emergency response arrangements.
+- review of emergency response arrangements;
+- review of whether corrective action tracking should remain inside the SHEQ Manual system or move to a standalone register.
 
 This procedure must be reviewed:
 
@@ -460,7 +480,7 @@ This procedure must be reviewed:
 
 ---
 
-## 18. Linked Documents and Forms
+## 19. Linked Documents and Forms
 
 This procedure should be read with:
 
@@ -477,17 +497,18 @@ This procedure should be read with:
 - TMP-SWMS-001 — Safe Work Method Statement Template;
 - FRM-EMR-001 — Emergency Response Form;
 - FRM-IND-001 — Site Induction Record;
+- FRM-INC-001 — Incident, Hazard and Near Miss Report Form;
 - SOP-ASM-001 — Asbestos Inspection, Survey and Sampling Procedure;
 - SOP-ASM-002 — Intrusive Investigation Procedure;
 - SOP-ASM-003 — Asbestos Register and Risk Assessment Reporting Procedure;
 - LIB-LIM-001 — Report Limitations Library;
 - LIB-RAS-001 — Recommended Action System.
 
-Future supporting forms should include an Incident, Hazard and Near Miss Report Form and Corrective Action Register if these are not embedded in the SHEQ Manual or another controlled register.
+`FRM-INC-001` should be developed as a separate combined WHS/environmental incident, hazard and near miss form.
 
 ---
 
-## 19. Compliance References Used
+## 20. Compliance References Used
 
 - Work Health and Safety Act 2012 (SA)
 - Work Health and Safety Regulations 2012 (SA)
@@ -499,26 +520,40 @@ Future supporting forms should include an Incident, Hazard and Near Miss Report 
 
 ---
 
-## 20. Assumptions and Open Review Items
+## 21. Resolved Human Review Decisions
+
+The following review decisions have been incorporated into this draft:
+
+| Item | Decision |
+|---|---|
+| Incident form | Create `FRM-INC-001` as a separate incident, hazard and near miss form. |
+| Corrective action tracking | Track corrective actions inside the SHEQ Manual system for now. |
+| Incident notification recipients | Notify both Anthony and Dane for escalation events. |
+| Insurance notification triggers | Add after broker/legal review; decision and notification are to be handled manually by humans. |
+| WHS/environment incident form structure | Use one combined WHS and environmental incident form for now. |
+
+---
+
+## 22. Assumptions and Remaining Open Review Items
 
 ### Assumptions
 
 - Ax4 generally acts as a consultant and coordinator, not as an asbestos removal contractor.
 - Clients and other PCBUs retain their own duty-holder obligations unless a responsibility has been expressly accepted by Ax4 in writing.
-- A separate form or register may be created later to capture incident/hazard/near miss data in a structured format.
+- `FRM-INC-001` will be drafted separately as a combined WHS/environmental incident, hazard and near miss form.
+- Corrective actions will be tracked through the SHEQ Manual system until Ax4 decides a standalone corrective action register is needed.
+- Insurance notification decisions will remain manual and subject to broker/legal review where applicable.
 - This procedure is intended for a small consultancy and avoids unnecessary corporate bureaucracy.
 
-### Open Review Items
+### Remaining Open Review Items
 
-- Confirm whether Ax4 wants a separate incident form code, likely `FRM-INC-001`.
-- Confirm whether corrective actions will be tracked in a standalone register or inside the SHEQ Manual system.
-- Confirm whether incident notifications should go first to Anthony, Dane, or both.
-- Confirm whether insurance notification triggers should be added after broker/legal review.
-- Confirm whether environmental incidents and WHS incidents should use one combined reporting form.
+- Confirm exact internal phone/email notification method for Anthony and Dane.
+- Confirm where in the SHEQ Manual corrective actions will be logged and reviewed.
+- Confirm whether `FRM-INC-001` should include severity categories, risk ranking and automatic Director notification prompts.
 
 ---
 
-## 21. Approval
+## 23. Approval
 
 Approved for and on behalf of Ax4 Consulting Pty Ltd.
 
