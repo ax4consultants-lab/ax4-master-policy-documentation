@@ -20,6 +20,7 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Added `docs/02-system-governance/PRO-DOC-001-document-control-procedure.md` as a controlled draft.
 - Added `docs/06-libraries/LIB-RAS-001-recommended-action-system.md` as a controlled draft.
 - Added `docs/02-system-governance/PRO-CON-001-contractor-and-partner-management-procedure.md` as a controlled draft.
+- Added `docs/03-field-control/TMP-SWMS-001-safe-work-method-statement-template.md` as a controlled draft.
 
 ### Updated
 
@@ -41,6 +42,8 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - Updated `DOCUMENT-REGISTER.md` to mark `LIB-RAS-001 — Recommended Action System` as `Draft complete — pending Director review`.
 - Updated `COMPLETION-CHECKLIST.md` to mark `PRO-CON-001 — Contractor and Partner Management Procedure` as `Draft complete`.
 - Updated `DOCUMENT-REGISTER.md` to mark `PRO-CON-001 — Contractor and Partner Management Procedure` as `Draft complete — pending Director review`.
+- Updated `COMPLETION-CHECKLIST.md` to mark `TMP-SWMS-001 — Safe Work Method Statement Template` as `Draft complete`.
+- Updated `DOCUMENT-REGISTER.md` to mark `TMP-SWMS-001 — Safe Work Method Statement Template` as `Draft complete — pending Director review`.
 
 ### Active Claims
 
@@ -60,3 +63,4 @@ All significant changes to the Ax4 Master Policy Documentation repository are re
 - `PRO-DOC-001 — Document Control Procedure`
 - `LIB-RAS-001 — Recommended Action System`
 - `PRO-CON-001 — Contractor and Partner Management Procedure`
+- `TMP-SWMS-001 — Safe Work Method Statement Template`
