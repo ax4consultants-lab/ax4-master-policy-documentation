@@ -2,6 +2,17 @@
 
 All significant changes to the Ax4 Master Policy Documentation repository are recorded here.
 
+## 2026-07-08
+
+### Added
+
+- Added `source-material/system-alignment/ALIGN-006-policy-and-wording-anchor.md` as a source-material alignment note for the Ax4 platform gap solution.
+
+### Notes
+
+- This is not an approved controlled document and does not change document-control status.
+- The note anchors standard wording, RAS concepts, limitations language and compliance-claim guardrails back to the policy/documentation source-material layer.
+
 ## 2026-05-27
 
 ### Added
