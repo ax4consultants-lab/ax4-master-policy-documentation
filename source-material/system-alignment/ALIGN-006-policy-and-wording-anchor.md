@@ -1,64 +1,69 @@
 # ALIGN-006 — Policy and Wording Anchor
 
-Date: 2026-07-08
-Status: Source-material alignment note / not an approved controlled document
-Primary alignment source: `ax4consultants-lab/ax4-systems-orchestration/docs/workblocks/ALIGN-006-platform-gap-alignment-solution.md`
+**Original date:** 2026-07-08  
+**Current status:** `HISTORICAL_AMENDED_BY_SPLIT_SPINE_V1`  
+**Primary architecture authority:** `ax4consultants-lab/ax4-systems-orchestration/docs/ALIGN-OPSDB-SPINE.md`  
+**Controlled-document status:** source-material alignment note only
 
 ## Purpose
 
-Anchor the platform gap solution to the controlled policy/documentation source material.
+Anchor AX4 applications to controlled policy, procedure, limitations and standard wording without granting this repository runtime authority.
 
-Apps may consume approved policy, procedure, limitations and standard wording. Apps must not invent technical asbestos methodology, limitations language, recommendation wording or compliance claims independently.
+## Current Architecture Context
+
+```text
+OpsDB = operational/commercial records and metadata
+Supabase = Hub portal auth, membership, QR and delivery records
+Z: / Shared Drive = controlled file bytes
+Hub = staff/client interface
+Survey Buddy = field capture
+Document Generator = approved-context draft renderer
+Policy repository = controlled wording and methodology source material
+```
+
+The policy repository does not own or select the database, portal or file plane.
 
 ## Policy Repository Owns
 
-```text
-WHS/SHEQ policy source material
-field control procedures
-asbestos technical procedures
-limitations wording
-standard report wording
-Recommended Action System / RAS source concepts
-SHEP / SWMS / JSA source material
-forms and register templates
-review and approval metadata for controlled documents
-```
+- WHS/SHEQ policy source material;
+- field control procedures;
+- asbestos technical procedures;
+- limitations wording;
+- standard report wording;
+- Recommended Action System source concepts;
+- SHEP, SWMS and JSA source material;
+- forms and register templates;
+- review/approval metadata for controlled policy documents.
 
 ## Policy Repository Does Not Own
 
-```text
-app runtime
-Supabase schema mutation
-field capture UI
-Hub runtime
-Document Generator runtime execution
-QR token creation or resolution
-client delivery
-invoice / closeout automation
-Echo / MCP write authority
-```
+- OpsDB or Supabase runtime/schema mutation;
+- A1xxx Client ID allocation;
+- field-capture UI;
+- Hub or Gateway runtime;
+- Document Generator execution;
+- QR token/session/access-log operations;
+- file storage or delivery;
+- invoice/closeout automation;
+- Echo/MCP operational authority.
 
 ## Wording Authority Direction
 
-Future apps should treat approved wording libraries as upstream authority for:
+Approved libraries may supply:
 
-```text
-limitations
-survey methodology statements
-no-access language
-sample/lab-result wording
-recommended action expansions
-permit-to-work statements
-Safe Work Instruction base wording
-management-plan control wording
-client-facing compliance disclaimers
-```
+- limitations;
+- survey methodology statements;
+- no-access language;
+- sample/laboratory-result wording;
+- controlled recommendation/action expansions;
+- permit-to-work statements;
+- Safe Work Instruction base wording;
+- management-plan control wording;
+- client-facing compliance disclaimers.
 
-## RAS Alignment
+Applications must not invent technical asbestos methodology, limitations, recommendations or compliance claims independently.
 
-Recommended Action System concepts should resolve from controlled codes to controlled wording.
-
-Pattern:
+## RAS Direction
 
 ```text
 recommendation_code = stable controlled code
@@ -66,57 +71,36 @@ recommendation_text = controlled expansion from approved library
 report_note_override = assessor-approved override where required
 ```
 
-Example code families:
+Example families may include L/M/H general and electrical controls, dust, permit-to-work, access/no-access and removed-item codes. This note does not approve a final code set.
+
+## Interface Direction
 
 ```text
-L-GEN / M-GEN / H-GEN
-L-ELEC / M-ELEC / H-ELEC
-DUST
-PTW
-ACC / no-access
-REM / removed item
+approved wording/version reference
+→ approved document context
+→ Document Generator draft
+→ human review
+→ issued controlled document
+→ controlled file package and portal delivery
 ```
 
-This note does not approve any individual code set. Final RAS tables must be controlled separately.
+The context must preserve the wording-library version and any assessor-approved override. The renderer must not silently substitute an uncontrolled wording source.
 
 ## Compliance Claim Guardrails
 
-Approved public/commercial wording should avoid overstated claims.
+Preferred wording includes:
 
-Preferred examples:
+- samples analysed by a NATA-accredited laboratory;
+- NATA laboratory pathways;
+- SafeWork SA-aligned documentation;
+- WHS-compliant registers and management plans where accurate;
+- DIT-aligned capability where formal prequalification is not confirmed;
+- controlled digital workflows with human review.
 
-```text
-NATA lab pathways
-samples analysed by a NATA-accredited laboratory
-SafeWork SA-aligned documentation
-WHS-compliant asbestos registers and management plans
-DIT-aligned capability where prequalification is not yet confirmed
-```
-
-Avoid unless formally verified:
-
-```text
-AX4 is NATA-accredited
-DIT prequalified
-WorkCover SA approved
-fully automated compliance without human review
-asbestos-free / cleared / no contamination exists everywhere
-```
-
-## System Interface Rule
-
-Applications may reference this repo for approved source material, but this repo does not execute workflows.
-
-Expected future path:
-
-```text
-approved wording library
-→ Document Generator rendering context
-→ draft document
-→ human review
-→ issued controlled document
-```
+Avoid unverified claims such as AX4 being NATA accredited, DIT prequalified, WorkCover SA approved, fully automated compliance, or universal asbestos-free/cleared conclusions.
 
 ## Hard Stop
 
-If a controlled wording library is required for runtime use, create a separate controlled document/workblock and update the document register, completion checklist and changelog according to this repository's operating rules.
+This note authorises no runtime integration, database mutation, document generation, issue, QR publication, file delivery, invoice, Echo access or real-job operation.
+
+A runtime wording-library service requires its own controlled document/workblock, version register, approval, security and rollback process.
