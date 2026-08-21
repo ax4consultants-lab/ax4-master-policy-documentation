@@ -7,6 +7,8 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 - Core suite: 19 documents
 - Mature suite: 25 documents
 
+> **Adjacent controlled-business doctrine:** POL-MKT-001 is registered below for discoverability but is outside the WHS/SHEQ core/mature-suite counts.
+
 ## Phase 1 — Corporate Policy Layer
 
 | # | Code | Document Name | Function | Status | Priority |
@@ -15,6 +17,16 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 | 2 | POL-ENV-001 | Environmental Policy | Corporate environmental commitment | Draft complete — pending Director review | P1 |
 | 3 | POL-QUA-001 | Quality Policy | Corporate quality and defensible reporting commitment | Draft complete — pending Director review | P1 |
 | 4 | POL-SHEQ-001 | Integrated SHEQ Policy Statement | Tender/prequalification summary statement | To draft | P1 |
+
+## Adjacent Controlled Corporate Doctrine — Marketing & Public Communications
+
+| Code | Document Name | Function | Status | Authority |
+|---|---|---|---|---|
+| POL-MKT-001 | Public Marketing and Campaign Policy | Controls AX4 public positioning, acquisition pillars, campaign rotation and marketing claim boundaries | Active v1.0 — 21 Aug 2026 | Commander-approved public marketing doctrine |
+
+Canonical file: `docs/01-corporate-policy/POL-MKT-001-public-marketing-and-campaign-policy.md`
+
+POL-MKT-001 does not alter the WHS/SHEQ core-suite count. It is registered here because its public legal/compliance wording controls interact with the technical and policy system and must be discoverable by agents and reviewers.
 
 ## Phase 2 — System Governance Layer
 
@@ -65,6 +77,7 @@ Controlled document register for the Ax4 WHS/SHEQ documentation rebuild.
 - Concept exists; formalise: working language/framework exists but needs controlled document form.
 - Later: not required for the first controlled release but should be built for maturity.
 - Approved: signed off for use.
+- Active: controlled adjacent-business doctrine in current use and explicitly outside the WHS/SHEQ suite counts unless later incorporated.
 
 ## Priority Definitions
 
